@@ -7,10 +7,10 @@ Based on my interests, I can say that I like to play sports. For example, volley
 
 #### ♨️Social networks
 
-<a href="https://vk.com/n1k17"><img src="Image png icon/Icon VK" alt="Error" height="48"/></a>
-<a href="https://t.me/prof_n1k17"><img src="Image png icon/Icon Telegram" alt="Error" height="48"/></a>
-<a href="https://www.youtube.com/@n1k17-lite"><img src="Image png icon/Icon YouTube" alt="Error" height="48"/></a>
-<a href="https://www.twitch.tv/may_flower_17"><img src="Image png icon/Icon Twitch" alt="Error" height="48"/></a>
+<a href="https://vk.com/n1k17"><img src="Image png Icon/Icon VK" alt="Error" height="48"/></a>
+<a href="https://t.me/prof_n1k17"><img src="Image png Icon/Icon Telegram" alt="Error" height="48"/></a>
+<a href="https://www.youtube.com/@n1k17-lite"><img src="Image png Icon/Icon YouTube" alt="Error" height="48"/></a>
+<a href="https://www.twitch.tv/may_flower_17"><img src="Image png Icon/Icon Twitch" alt="Error" height="48"/></a>
 
 ### Favorite programm
 
