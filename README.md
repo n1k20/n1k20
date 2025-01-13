@@ -24,4 +24,7 @@ Based on my interests, I can say that I like to play sports. For example, volley
 <img src="Image png Icon/Platforms/Icon Codewars" heigth="48"/></a>
 <img src="Image png Icon/Platforms/Icon Stepik" height="48"/></a>
 
-#### 📑Languages
+#### 🤖 Technology
+
+
+
