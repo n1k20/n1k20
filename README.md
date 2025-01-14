@@ -5,11 +5,11 @@ Based on my interests, I can say that I like to play sports. For example, volley
 
 #### 🖥️ Social networks
 
-<a href="https://vk.com/n1k17"><img src="Image png Icon/Social/Icon VK" alt="Error" height="48"/></a>
-<a href="https://t.me/prof_n1k17"><img src="Image png Icon/Social/Icon Telegram" alt="Error" height="48"/></a>
-<a href="https://www.youtube.com/@n1k17-lite"><img src="Image png Icon/Social/Icon YouTube" alt="Error" height="48"/></a>
-<a href="https://www.twitch.tv/may_flower_17"><img src="Image png Icon/Social/Icon Twitch" alt="Error" height="48"/></a>
-<a href="https://steamcommunity.com/profiles/76561199596928911/"><img src="Image png Icon/Social/Icon Steam" height="48"></a>
+<a href="https://vk.com/n1k17"><img src="Image png Icon/Social/Icon VK" alt="Error" height="40"/></a>
+<a href="https://t.me/prof_n1k17"><img src="Image png Icon/Social/Icon Telegram" alt="Error" height="40"/></a>
+<a href="https://www.youtube.com/@n1k17-lite"><img src="Image png Icon/Social/Icon YouTube" alt="Error" height="40"/></a>
+<a href="https://www.twitch.tv/may_flower_17"><img src="Image png Icon/Social/Icon Twitch" alt="Error" height="40"/></a>
+<a href="https://steamcommunity.com/profiles/76561199596928911/"><img src="Image png Icon/Social/Icon Steam" height="40"></a>
 
 #### 👩🏻‍💻 Favorite programms
 
