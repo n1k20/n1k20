@@ -1,4 +1,5 @@
-<h1 align='center'> 
+<img src="Моя комната.jpg" height="400" width="1000"/>
+<h1 align='center'>
   Hello everyone 🔥🔥🔥
 </h1>
 My name is Nikolai 🪪 I am eighteen years old 🧑‍💻 At the moment, I am a first-year student at the Faculty of Mechanics and Mathematics of Novosibirsk State University 🪪 I have big ambitions and goals in life. I want to constantly improve in everything that interests me. My philosophy is to live a life without regrets, to try everything possible in this life, to make myself perfect 💼
