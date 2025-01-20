@@ -26,8 +26,8 @@ Based on my interests, I can say that I like to play sports. For example, volley
 <img src="Icon LeetCode" height="48"/></a>
 
 #### 🤖 Technology
-<img src="free-icon-python-3098090.png" height="48"/></a>
-<img src="free-icon-html-1051277.png" height="48"/></a>
-<img src="icons8-latex-48 (1).png" height="48"/></a>
+<img src="Icon Python" height="48"/></a>
+<img src="Icon HTML" height="48"/></a>
+<img src="Icon LaTeX" height="48"/></a>
 
 
