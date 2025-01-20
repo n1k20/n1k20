@@ -17,21 +17,20 @@ Based on my interests, I can say that I like to play sports. For example, volley
 <img src="Image png Icon/Programms/Icon Toolbox" height="48"/></a>
 <img src="Image png Icon/Programms/Icon Sublime Text" height="48"/></a>
 <img src="Image png Icon/Programms/Icon VS code" height="48"/></a>
-<img src="icons8-opera-48.png" heigth="48"/></a>
+<img src="Image png Icon/Programms/Icon Opera" heigth="48"/></a>
 
 
 #### 🏆Platforms
 <img src="Image png Icon/Platforms/Icon Codewars" heigth="48"/></a>
 <img src="Image png Icon/Platforms/Icon Stepik" height="48"/></a>
-<img src="Icon LeetCode" height="48"/></a>
+<img src="Image png Icon/Platforms/Icon LeetCode" height="48"/></a>
 
 #### 🤖 Technology
 <img src="Icon Python" height="48"/></a>
-<img src="Icon HTML" height="48"/></a>
-<img src="Icon LaTeX" height="48"/></a>
+<img src="Image png Icon/Technology/Icon HTML" height="48"/></a>
+<img src="Image png Icon/Technology/Icon LaTeX" height="64"/></a>
 
-
-# School achievements
+## School achievements
 
 
 
