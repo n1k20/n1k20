@@ -14,13 +14,13 @@ Based on my interests, I can say that I like to play sports. For example, volley
 
 #### 👩🏻‍💻 Favorite programms
 
-<img src="Image png Icon/Favorite programms/Icon PyCharm" height="48"/>
-<img src="Image png Icon/Favorite programms/Icon Toolbox" height="48"/>
-<img src="Image png Icon/Favorite programms/Icon Sublime Text" height="48"/>
-<img src="Image png Icon/Favorite programms/Icon VS code" height="48"/>
-<img src="Image png Icon/Favorite programms/Icon Opera" heigth="48"/>
-<img src="Image png Icon/Favorite programms/Icon Miro" height="48"/>
-<img src="Image png Icon/Favorite programms/Icon yandex music" height="48"/>
+<img src="Image png Icon/Favorite programms/Icon PyCharm" height="48"/></a>
+<img src="Image png Icon/Favorite programms/Icon Toolbox" height="48"/></a>
+<img src="Image png Icon/Favorite programms/Icon Sublime Text" height="48"/></a>
+<img src="Image png Icon/Favorite programms/Icon VS code" height="48"/></a>
+<img src="Image png Icon/Favorite programms/Icon Opera" heigth="48"/></a>
+<img src="Image png Icon/Favorite programms/Icon Miro" height="48"/></a>
+<img src="Image png Icon/Favorite programms/Icon yandex music" height="48"/></a>
 
 #### 🏆Platforms
 
@@ -31,17 +31,17 @@ Based on my interests, I can say that I like to play sports. For example, volley
 
 
 #### 🤖 Technology
-<img src="Image png Icon/Technology/Icon Python" height="40"/>
-<img src="Image png Icon/Technology/Icon HTML" height="40"/>
-<img src="Image png Icon/Technology/Icon LaTeX" height="60"/>
+<img src="Image png Icon/Technology/Icon Python" height="40"/></a>
+<img src="Image png Icon/Technology/Icon HTML" height="40"/></a>
+<img src="Image png Icon/Technology/Icon LaTeX" height="60"/></a>
 
 #### 💼 Dream jobs 
 
-<img src="Image png Icon/Dream jobs/Icon google" height="48"/>
-<img src="Image png Icon/Dream jobs/Icon JetBrains" height="48"/>
-<img src="Image png Icon/Dream jobs/Icon Yandex" height="48"/>
-<img src="Image png Icon/Dream jobs/Icon T bank" height="48"/>
-<img src="Image png Icon/Dream jobs/Icon apple" height="48"/>
+<img src="Image png Icon/Dream jobs/Icon google" height="48"/></a>
+<img src="Image png Icon/Dream jobs/Icon JetBrains" height="48"/></a>
+<img src="Image png Icon/Dream jobs/Icon Yandex" height="48"/></a>
+<img src="Image png Icon/Dream jobs/Icon T bank" height="48"/></a>
+<img src="Image png Icon/Dream jobs/Icon apple" height="48"/></a>
 
 
 ## My devices
