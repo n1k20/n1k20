@@ -19,7 +19,8 @@
 <img src="Image png Icon/Favorite programms/Icon Sublime Text" height="48"/></a>
 <img src="Image png Icon/Favorite programms/Icon VS code" height="48"/></a>
 <img src="Image png Icon/Favorite programms/Icon Opera" heigth="48"/></a>
-
+<img src="Image png Icon/Favorite programms/Icon Miro" height="48"/></a>
+<img src="Image png Icon/Favorite programms/Icon yandex music" height="48"/></a>
 
 #### 🏆Platforms
 
@@ -34,6 +35,15 @@
 <img src="Image png Icon/Technology/Icon HTML" height="40"/></a>
 <img src="Image png Icon/Technology/Icon LaTeX" height="60"/></a>
 
+#### 💼 Dream jobs 
+
+<img src="Image png Icon/Dream jobs/Icon google" height="48"/></a>
+<img src="Image png Icon/Dream jobs/Icon JetBrains" height="48"/></a>
+<img src="Image png Icon/Dream jobs/Icon Yandex" height="48"/></a>
+<img src="Image png Icon/Dream jobs/Icon T bank" height="48"/></a>
+<img src="Image png Icon/Dream jobs/Icon apple" height="48"/></a>
+
+(Where do I want to work)
 ## My devices
 
 ## School achievements
