@@ -14,42 +14,38 @@ Based on my interests, I can say that I like to play sports. For example, volley
 
 #### 👩🏻‍💻 Favorite programms
 
-<img src="Image png Icon/Favorite programms/Icon PyCharm" height="48"/></a>
-<img src="Image png Icon/Favorite programms/Icon Toolbox" height="48"/></a>
-<img src="Image png Icon/Favorite programms/Icon Sublime Text" height="48"/></a>
-<img src="Image png Icon/Favorite programms/Icon VS code" height="48"/></a>
-<img src="Image png Icon/Favorite programms/Icon Opera" heigth="48"/></a>
-<img src="Image png Icon/Favorite programms/Icon Miro" height="48"/></a>
-<img src="Image png Icon/Favorite programms/Icon yandex music" height="48"/></a>
+<img src="Image png Icon/Favorite programms/Icon PyCharm" height="48"/>
+<img src="Image png Icon/Favorite programms/Icon Toolbox" height="48"/>
+<img src="Image png Icon/Favorite programms/Icon Sublime Text" height="48"/>
+<img src="Image png Icon/Favorite programms/Icon VS code" height="48"/>
+<img src="Image png Icon/Favorite programms/Icon Opera" heigth="48"/>
+<img src="Image png Icon/Favorite programms/Icon Miro" height="48"/>
+<img src="Image png Icon/Favorite programms/Icon yandex music" height="48"/>
 
 #### 🏆Platforms
 
 <a href="https://www.codewars.com/users/n1k20"><img src="Image png Icon/Platforms/Icon Codewars" alt="Error" height="48"/></a>
 <a href="https://stepik.org/users/366393199/profile"><img src="Image png Icon/Platforms/Icon Stepik" alt="Error" height="48"/></a>
 <a href="https://leetcode.com/u/n1k17"><img src="Image png Icon/Platforms/Icon LeetCode" alt="Error" height="48"/></a>
-<a href="https://codeforces.net/profile/n1k17"><img src="Image png Icon/Platforms/Icon Codeforces" height="48"></a>
+<a href="https://codeforces.net/profile/n1k17"><img src="Image png Icon/Platforms/Icon Codeforces" height="48"/></a>
 
 
 #### 🤖 Technology
-<img src="Image png Icon/Technology/Icon Python" height="40"/></a>
-<img src="Image png Icon/Technology/Icon HTML" height="40"/></a>
-<img src="Image png Icon/Technology/Icon LaTeX" height="60"/></a>
+<img src="Image png Icon/Technology/Icon Python" height="40"/>
+<img src="Image png Icon/Technology/Icon HTML" height="40"/>
+<img src="Image png Icon/Technology/Icon LaTeX" height="60"/>
 
 #### 💼 Dream jobs 
 
-<img src="Image png Icon/Dream jobs/Icon google" height="48"/></a>
-<img src="Image png Icon/Dream jobs/Icon JetBrains" height="48"/></a>
-<img src="Image png Icon/Dream jobs/Icon Yandex" height="48"/></a>
-<img src="Image png Icon/Dream jobs/Icon T bank" height="48"/></a>
-<img src="Image png Icon/Dream jobs/Icon apple" height="48"/></a>
+<img src="Image png Icon/Dream jobs/Icon google" height="48"/>
+<img src="Image png Icon/Dream jobs/Icon JetBrains" height="48"/>
+<img src="Image png Icon/Dream jobs/Icon Yandex" height="48"/>
+<img src="Image png Icon/Dream jobs/Icon T bank" height="48"/>
+<img src="Image png Icon/Dream jobs/Icon apple" height="48"/>
 
-(Where do I want to work)
+
 ## My devices
 
-## School achievements
-
-### 🥈Silver medal 2024 year
-### 🏆There are many Olympiads in physics, mathematics and computer science
 
 ## University achievements
 
