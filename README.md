@@ -2,6 +2,7 @@
 
 Hello everyone 🔥 My name is Nikolai 🔥 I am eighteen years old 🧑🏻💻 I love programming, reading books 📗, exercising 🏂🏻, and constantly getting better ✨.
 
+![Error](https://play.vsthemes.org/frame/14/70414.webp)
 
 #### 🖥️ Social networks
 
