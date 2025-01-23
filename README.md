@@ -2,8 +2,6 @@
 
 Hello everyone 🔥 My name is Nikolai 🔥 I am eighteen years old 🧑🏻💻 I love programming, reading books 📗, exercising 🏂🏻, and constantly getting better ✨.
 
-![Error](https://play.vsthemes.org/frame/14/70414.webp)
-
 #### 🖥️ Social networks
 
 <a href="https://vk.com/n1k17"><img src="Image png Icon/Social networks/Icon VK" alt="Error" height="40"/></a>
