@@ -16,6 +16,7 @@ Hello everyone 🔥 My name is Nikolai 🔥 I am eighteen years old 🧑🏻💻
 <img src="Image png Icon/Favorite programms/Icon Toolbox" height="48"/></a>
 <img src="Image png Icon/Favorite programms/Icon Sublime Text" height="48"/></a>
 <img src="Image png Icon/Favorite programms/Icon VS code" height="48"/></a>
+<img src="Image png Icon/Favorite programms/icons8-yandex-browser.svg" height="48"/></a>
 <img src="Image png Icon/Favorite programms/Icon Opera" heigth="48"/></a>
 <img src="Image png Icon/Favorite programms/Icon Miro" height="48"/></a>
 <img src="Image png Icon/Favorite programms/Icon yandex music" height="48"/></a>
