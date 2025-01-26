@@ -30,7 +30,7 @@ Hello everyone 🔥 My name is Nikolai 🔥 I am eighteen years old 🧑🏻💻
 <a href="https://codeforces.net/profile/n1k17"><img src="Image png Icon/Platforms/Icon Codeforces" height="48"/></a>
 
 
-#### 🤖 Technology
+#### 🛠️ Languages and Tools
 <img src="Image png Icon/Technology/Icon Python" height="40"/></a>
 <img src="Image png Icon/Technology/Icon HTML" height="40"/></a>
 <img src="Image png Icon/Technology/Icon LaTeX" height="60"/></a>
@@ -48,8 +48,6 @@ Hello everyone 🔥 My name is Nikolai 🔥 I am eighteen years old 🧑🏻💻
 
 
 ## University achievements
-
-
 
 
 
