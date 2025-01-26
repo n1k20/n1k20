@@ -1,7 +1,11 @@
 
+
+
 # ✨ The learning machine
 
-Hello everyone 🔥 My name is Nikolai 🔥 I am eighteen years old 🧑🏻💻 I love programming, reading books 📗, exercising 🏂🏻, and constantly getting better ✨.
+Hello everyone 🔥 My name is Nikolai 🔥 I am eighteen years old 🧑🏻💻 I love programming, reading books 📗, exercising 🏂🏻, and constantly getting better ✨
+
+
 
 #### 🖥️ Social networks
 
@@ -52,7 +56,12 @@ Hello everyone 🔥 My name is Nikolai 🔥 I am eighteen years old 🧑🏻💻
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=n1k20&theme=radical&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+[![codewars](https://www.codewars.com/users/n1k20/badges/large)](https://www.codewars.com/users/n1k20)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=n1k&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1k20&theme=radical&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/n1k20/n1k20/blob/output/github-contribution-grid-snake-dark.svg">
@@ -60,13 +69,7 @@ Hello everyone 🔥 My name is Nikolai 🔥 I am eighteen years old 🧑🏻💻
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
-
-
-
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fire+code+&pause=1000&color=0EC3F7&background=A7A8FF00&center=true&vCenter=true&width=435&lines=Nikolai+Borgoyakov++top+proger+)](https://git.io/typing-svg)
 
 
 
