@@ -54,7 +54,11 @@ Hello everyone 🔥 My name is Nikolai 🔥 I am eighteen years old 🧑🏻💻
 
 
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/n1k20/n1k20/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/n1k20/n1k20/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
