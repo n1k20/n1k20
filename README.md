@@ -50,9 +50,9 @@ Hello everyone 🔥 My name is Nikolai 🔥 I am eighteen years old 🧑🏻💻
 
 ## University achievements
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=n1k20&theme=radical&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=1000&card_height=495)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=n1k20&theme=radical&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1k20&theme=radical&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=1000&card_height=495)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1k20&theme=radical&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/n1k20/n1k20/blob/output/github-contribution-grid-snake-dark.svg">
