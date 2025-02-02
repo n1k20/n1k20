@@ -56,15 +56,6 @@ Hello everyone 🔥 My name is Nikolai 🔥 I am eighteen years old 🧑🏻💻
 ## University achievements
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=n1k20&theme=juicyfresh&no-bg=true" />
-
-[![codewars](https://www.codewars.com/users/n1k20/badges/large)](https://www.codewars.com/users/n1k20)
-
-![](https://leetcard.jacoblin.cool/n1k17?theme=light,unicorn&)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1k20&theme=radical&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/n1k20/n1k20/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/n1k20/n1k20/blob/output/github-contribution-grid-snake.svg">
