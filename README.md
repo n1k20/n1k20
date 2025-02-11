@@ -42,6 +42,7 @@ Hello everyone 🔥 My name is Nikolai 🔥 I am eighteen years old 🧑🏻💻
 <img src="Image png Icon/Technology/Icon C++.png" height="50"></a>
 <img src="Image png Icon/Technology/Icon C.svg" height="48"/></a>
 <img src="Image png Icon/Technology/Icon HTML.png" height="45"/></a>
+<img src="Image png Icon/Technology/Icon CSS.png" height="45"/></a>
 <img src="Image png Icon/Technology/Icon Git.png" height="48"/></a>
 
 #### 💼 Dream jobs 
