@@ -20,13 +20,10 @@ Hello everyone 🔥 My name is Nikolai 🔥 I am eighteen years old 🧑🏻💻
 #### 👩🏻‍💻 Favorite programms
 
 <img src="Image png Icon/Favorite programms/Icon PyCharm.png" height="48"/></a>
-<img src="Image png Icon/Favorite programms/Icon Yandex Browser.png" height="44" /></a>
 <img src="Image png Icon/Favorite programms/Icon Toolbox.png" height="48"/></a>
 <img src="Image png Icon/Favorite programms/Icon Sublime Text.png" height="48"/></a>
 <img src="Image png Icon/Favorite programms/Icon VS code.png" height="48"/></a>
 <img src="Image png Icon/Favorite programms/Icon Opera.png" heigth="48"/></a>
-<img src="Image png Icon/Favorite programms/Icon Miro.png" height="48"/></a>
-<img src="Image png Icon/Favorite programms/Icon yandex music.png" height="48"/></a>
 <img src="Image png Icon/Favorite programms/GitHub.png" height="48"/></a>
 
 #### 🏆Platforms
@@ -39,10 +36,10 @@ Hello everyone 🔥 My name is Nikolai 🔥 I am eighteen years old 🧑🏻💻
 
 #### 🛠️ Languages and Tools
 <img src="Image png Icon/Technology/Icon Python.png" height="48"/></a>
-<img src="Image png Icon/Technology/Icon C++.png" height="50"></a>
+<img src="Image png Icon/Technology/Icon C++.png" height="48"></a>
 <img src="Image png Icon/Technology/Icon C.svg" height="48"/></a>
-<img src="Image png Icon/Technology/Icon HTML.png" height="45"/></a>
-<img src="Image png Icon/Technology/Icon CSS.png" height="45"/></a>
+<img src="Image png Icon/Technology/Icon HTML.png" height="48"/></a>
+<img src="Image png Icon/Technology/Icon CSS.png" height="48"/></a>
 <img src="Image png Icon/Technology/Icon Git.png" height="48"/></a>
 
 #### 💼 Dream jobs 
