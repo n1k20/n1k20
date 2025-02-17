@@ -43,14 +43,6 @@ Hello everyone 🔥 My name is Nikolai 🔥 I am eighteen years old 🧑🏻💻
 <img src="Image png Icon/Technology/Icon CSS.png" height="44"/></a>
 <img src="Image png Icon/Technology/Icon Git.png" height="48"/></a>
 
-#### 💼 Dream jobs 
-
-<img src="Image png Icon/Dream jobs/Icon google.png" height="40"/></a>
-<img src="Image png Icon/Dream jobs/Icon JetBrains.png" height="48"/></a>
-<img src="Image png Icon/Dream jobs/Icon Yandex.png" height="40"/></a>
-<img src="Image png Icon/Dream jobs/Icon T bank.png" height="40"/></a>
-<img src="Image png Icon/Dream jobs/Icon apple.png" height="40"/></a>
-
 ## My devices
 
 
