@@ -3,7 +3,7 @@
 
 # ✨ The learning machine
 
-#### Hello everyone 🔥 My name is Nikolai 🔥 I am eighteen years old 🧑🏻💻 I love programming, reading books 📗, exercising 🏂🏻, and constantly getting better ✨
+##### Hello everyone 🔥 My name is Nikolai 🔥 I am eighteen years old 💻 I love programming, reading books 📗, exercising 🏂🏻, and constantly getting better ✨
 
 
 
