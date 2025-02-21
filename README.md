@@ -25,14 +25,6 @@
 <a href="https://leetcode.com/u/n1k17"><img src="Image png Icon/Platforms/Icon LeetCode.png" alt="Error" height="48"/></a>
 <a href="https://codeforces.net/profile/n1k17"><img src="Image png Icon/Platforms/Icon Codeforces.png" height="48"/></a>
 
-#### 🛠️ Languages and Tools
-<img src="Image png Icon/Technology/Icon Python.png" height="48"/></a>
-<img src="Image png Icon/Technology/Icon C++.png" height="48"></a>
-<img src="Image png Icon/Technology/Icon C.svg" height="48"/></a>
-<img src="Image png Icon/Technology/Icon HTML.png" height="44"/></a>
-<img src="Image png Icon/Technology/Icon CSS.png" height="44"/></a>
-<img src="Image png Icon/Technology/Icon Git.png" height="48"/></a>
-
 #### 👩🏻‍💻 Favorite programms
 
 <img src="Image png Icon/Favorite programms/Icon PyCharm.png" height="48"/></a>
@@ -41,6 +33,16 @@
 <img src="Image png Icon/Favorite programms/Icon VS code.png" height="48"/></a>
 <img src="Image png Icon/Favorite programms/Icon Opera.png" heigth="48"/></a>
 <img src="Image png Icon/Favorite programms/Icon GitHub.png" height="48"/></a>
+
+#### 🛠️ Languages and Tools
+<img src="Image png Icon/Technology/Icon Python.png" height="48"/></a>
+<img src="Image png Icon/Technology/Icon C++.png" height="48"></a>
+<img src="Image png Icon/Technology/Icon C.svg" height="48"/></a>
+<img src="Image png Icon/Technology/Icon HTML.png" height="44"/></a>
+<img src="Image png Icon/Technology/Icon CSS.png" height="44"/></a>
+<img src="Image png Icon/Technology/Icon Git.png" height="48"/></a>
+
+
 
 
 
