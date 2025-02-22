@@ -18,12 +18,11 @@
 <a href="https://steamcommunity.com/profiles/76561199596928911/"><img src="Image png Icon/Social networks/Icon Steam.png" height="48"></a>
 
 
-#### 🏆Platforms
-
+[//]: <> (#### 🏆Platforms
 <a href="https://www.codewars.com/users/n1k20"><img src="Image png Icon/Platforms/Icon Codewars.png" alt="Error" height="48"/></a>
 <a href="https://stepik.org/users/366393199/profile"><img src="Image png Icon/Platforms/Icon Stepik.png" alt="Error" height="48"/></a>
 <a href="https://leetcode.com/u/n1k17"><img src="Image png Icon/Platforms/Icon LeetCode.png" alt="Error" height="48"/></a>
-<a href="https://codeforces.net/profile/n1k17"><img src="Image png Icon/Platforms/Icon Codeforces.png" height="48"/></a>
+<a href="https://codeforces.net/profile/n1k17"><img src="Image png Icon/Platforms/Icon Codeforces.png" height="48"/></a>)
 
 #### 👩🏻‍💻 Favorite programms
 
