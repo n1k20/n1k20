@@ -3,7 +3,11 @@
 
 # ✨ The learning machine
 
-##### Hello everyone 🔥 My name is Nikolai 🔥 I am eighteen years old 💻 I love programming, reading books 📗, exercising 🏂🏻, and constantly getting better ✨
+[//]: <> (##### Hello everyone 🔥 My name is Nikolai 🔥 I am eighteen years old 💻 I love programming, reading books 📗, exercising 🏂🏻, and constantly getting better )
+##### Hello everyone 👋👋👋, my name is Nikolai 🔥I am eighteen years old 🧑‍💻At the moment, I am a first-year student at the Faculty of Mechanics and Mathematics of Novosibirsk State University 🪪 I have big ambitions and goals in life. I want to constantly improve in everything that interests me My philosophy is to live a life without regrets, to try everything possible in this life, to make myself perfect 💼
+
+##### Based on my interests, I can say that I like to play sports. For example, volleyball 🏐 and basketball 🏀 I plan to learn how to play football at a high level ⚽ Since I study at the Faculty of Mechanics and Mathematics, I love mathematics and consider it the key to success. My profession is programming 🖥️  I think I've become the best programmer in the world.
+
 
 
 
