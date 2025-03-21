@@ -24,7 +24,7 @@ I am currently studying at the Faculty of Mechanics and Mathematics of Novosibir
 #### 🖥️ Social networks
 
 <a href="https://vk.com/n1k17"><img src="Image png Icon/Social networks/Icon VK.png" alt="Error" height="40"/></a>
-<a href="https://t.me/prof_n1k17"><img src="Image png Icon/Social networks/Icon Telegram.png" alt="Error" height="40"/></a>
+<a href="https://t.me/mayflower17"><img src="Image png Icon/Social networks/Icon Telegram.png" alt="Error" height="40"/></a>
 <a href="https://www.youtube.com/@n1k17-lite"><img src="Image png Icon/Social networks/Icon YouTube.png" alt="Error" height="40"/></a>
 <a href="https://www.twitch.tv/may_flower_17"><img src="Image png Icon/Social networks/Icon Twitch.png" alt="Error" height="40"/></a>
 <a href="https://steamcommunity.com/profiles/76561199596928911/"><img src="Image png Icon/Social networks/Icon Steam.png" height="48"></a>
