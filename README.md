@@ -5,11 +5,19 @@
 
 [//]: <> (##### Hello everyone 🔥 My name is Nikolai 🔥 I am eighteen years old 💻 I love programming, reading books 📗, exercising 🏂🏻, and constantly getting better )
 
-Hello everyone 👋👋👋, my name is Nikolai 🔥I am eighteen years old 🧑‍💻 I have big ambitions and goals in life. I want to constantly improve in everything that interests me 
-Based on my interests, I can say that I like to play sports. For example, volleyball 🏐 and basketball 🏀 I plan to learn how to play football at a high level Since I study at the Faculty of Mechanics and Mathematics, I love mathematics and consider it the key to success. My profession is programming 🖥️  I think I've become the best programmer in the world.
+Hello everyone 👋👋👋, my name is Nikolai 🔥I am eighteen years old 🧑‍💻 I have big ambitions and goals in life.
 
+I love mathematics and consider it the key to success. I think I've become the best programmer in the world 🪄
 
+Based on my interests, I can say that I like to play sports
+For example:
+- Basketball 🏀 
+- Volleyball 🏐
+- Football ⚽
+- Ski 🏂
+- Swimming 🥽
 
+I am currently studying at the Faculty of Mechanics and Mathematics of Novosibirsk State University 🪪
 
 
 
