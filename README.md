@@ -7,6 +7,9 @@
 
 Hello everyone 👋👋👋, my name is Nikolai 🔥I am eighteen years old 🧑‍💻 I have big ambitions and goals in life.
 
+
+I am currently studying at the Faculty of Mechanics and Mathematics of Novosibirsk State University 🪪
+
 I love mathematics and consider it the key to success. I think I've become the best programmer in the world 🪄
 
 Based on my interests, I can say that I like to play sports
@@ -16,8 +19,6 @@ For example:
 - Football ⚽
 - Ski 🏂
 - Swimming 🥽
-
-I am currently studying at the Faculty of Mechanics and Mathematics of Novosibirsk State University 🪪
 
 
 
