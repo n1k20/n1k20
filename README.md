@@ -14,15 +14,15 @@ I love mathematics and consider it the key to success. I think I've become the b
 
 Based on my interests, I can say that I like to play sports
 For example:
-- Basketball 🏀 
+- Basketball 🏀
+- Swimming 🥽
 - Volleyball 🏐
 - Football ⚽
 - Ski 🏂
-- Swimming 🥽
 
 
 
-#### 🖥️ Social networks
+#### 📱 Social networks
 
 <a href="https://vk.com/n1k17"><img src="Image png Icon/Social networks/Icon VK.png" alt="Error" height="40"/></a>
 <a href="https://t.me/mayflower17"><img src="Image png Icon/Social networks/Icon Telegram.png" alt="Error" height="40"/></a>
@@ -53,17 +53,6 @@ For example:
 <img src="Image png Icon/Technology/Icon HTML.png" height="44"/></a>
 <img src="Image png Icon/Technology/Icon CSS.png" height="44"/></a>
 <img src="Image png Icon/Technology/Icon Git.png" height="48"/></a>
-
-
-
-
-
-
-## My devices
-
-
-## University achievements
-
 
 
 
