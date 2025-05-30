@@ -11,14 +11,10 @@ I am currently studying at the Faculty of Mechanics and Mathematics of Novosibir
 I love mathematics and consider it the key to success. I think I've become the best programmer in the world 🪄
 
 Based on my interests, I can say that I like to play sports
+
 For example:
-- Basketball 🏀
-- Swimming 🥽
-- Volleyball 🏐
-- Football ⚽
-- Ski 🏂
 
-
+-- Basketball 🏀 | Swimming 🥽 | Volleyball 🏐 | Football ⚽ | Ski 🏂
 
 #### 📱 Social networks
 
