@@ -10,11 +10,15 @@ I am currently studying at the Faculty of Mechanics and Mathematics of Novosibir
 
 I love mathematics and consider it the key to success. I think I've become the best programmer in the world 🪄
 
-Based on my interests, I can say that I like to play sports
+Interests 🪄:
 
-For example:
+⚽ Sports enthusiast | � Math & coding nerd | 📚 Bookworm | 🎮 Casual gamer
 
--- Basketball 🏀 | Swimming 🥽 | Volleyball 🏐 | Football ⚽ | Ski 🏂
+🎥 Favs: MCU | Interstellar | The Martian | Silicon Valley
+
+⚡ Harry Potter | 🏛 Percy Jackson | ☢️ *Metro 2033-2035* | 🍎 Steve Jobs
+
+🎮 CS2 | 🏢 Fallout Shelter | 🚂 Until We Die
 
 #### 📱 Social networks
 
