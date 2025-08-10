@@ -48,8 +48,8 @@ Interests 🪄:
 <img src="Image png Icon/Technology/Icon Python.png" height="48"/></a>
 <img src="Image png Icon/Technology/Icon C.png" height="48"/></a>
 <img src="Image png Icon/Technology/Icon C++.png" height="48"></a>
-<img src="Image png Icon/Technology/Icon HTML.png" height="44"/></a>
-<img src="Image png Icon/Technology/Icon CSS.png" height="44"/></a>
+<img src="Image png Icon/Technology/Icon html.png" height="100"/></a>
+<img src="Image png Icon/Technology/Icon CSS.png" height="100"/></a>
 <img src="Image png Icon/Technology/Icon Git.png" height="48"/></a>
 
 
